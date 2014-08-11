@@ -1,0 +1,19 @@
+{
+  "name": "arma-server-monitor",
+  "version": "0.0.0",
+  "description": "Client for Arma Server Monitor",
+  "homepage": "https://github.com/Dahlgren/node-arma-server-monitor",
+  "keywords": [
+    "arma"
+  ],
+  "main": "./src/asm.js",
+  "author": "Björn Dahlgren",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Dahlgren/node-arma-server-monitor.git"
+  },
+  "dependencies": {
+    "binary": "^0.3.0"
+  }
+}
